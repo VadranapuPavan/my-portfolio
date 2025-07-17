@@ -101,7 +101,7 @@ export default function Contact() {
                 <Input
                   id="user_name"
                   name="user_name"
-                  placeholder="John Doe"
+                  placeholder="your name"
                   required
                 />
               </div>
@@ -112,7 +112,7 @@ export default function Contact() {
                   id="user_email"
                   name="user_email"
                   type="email"
-                  placeholder="john@example.com"
+                  placeholder="your gmail"
                   required
                 />
               </div>
