@@ -66,7 +66,7 @@ export default function Home() {
 
             {/* Action Buttons */}
             <div className="flex flex-wrap gap-4">
-              <a href="/resume.pdf" download>
+              <a href="/myresume.pdf" download>
                 <Button size="lg" className="flex items-center gap-2">
                   <Download className="w-4 h-4" />
                   Download Resume
